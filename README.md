@@ -1,6 +1,6 @@
-## 🏦 Nova Bank Credit Risk Analytics Portfolio
-#📖 Project Overview                                                                                                                                                                    
-Nova Bank Credit Risk Challenge
+### 🏦 Nova Bank Credit Risk Analytics Portfolio
+## 📖 Project Overview                                                                                                                                                                    
+# Nova Bank Credit Risk Challenge
 Nova Bank offers personal, medical, education, and business loans across the USA, UK, and Canada. As a Credit Risk Analyst, your mission is to balance fair access with risk control:
 
 Too lenient → Defaults & losses
